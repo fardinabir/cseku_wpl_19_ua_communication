@@ -22,9 +22,16 @@ CCA:
 Asset Archive:
 --------------
 
+Communication:
+--------------
+1. Kazi Fardin Islam Abir (170213)
+2. Mithun Rahman (170225)
+3. Sazid Hasan (170239)
 
 Attendance:
 -----------
+1. Dabashis Kundu Shento (170209)
+2. Mostaq Ahmed Polok (170232)
 
 Blood:
 -------
