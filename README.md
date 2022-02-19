@@ -13,11 +13,16 @@ Founder, Framework and Architecture: Dr. KAZI MASUDUL ALAM, Assistant Professor,
 
 Development Contributors:
 --------------------------------
-Course Registration, Result
+Communication:
+--------------
+1. Kazi Fardin Islam Abir (170213)
+2. Mithun Rahman (170225)
+3. Sazid Hasan (170239)
+
+Course Registration & Result:
 1. Saimum Islam (160227)
 2. Miss. Rokeya Akter (160210)
 3. Md. Abdul Lotif (160212)
-
 
 CCA:
 -------------------------------
@@ -26,12 +31,6 @@ CCA:
 
 Asset Archive:
 --------------
-
-Communication:
---------------
-1. Kazi Fardin Islam Abir (170213)
-2. Mithun Rahman (170225)
-3. Sazid Hasan (170239)
 
 
 Attendance:
